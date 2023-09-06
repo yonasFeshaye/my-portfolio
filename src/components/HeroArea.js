@@ -1,3 +1,5 @@
+import React from 'react';
+
 import styles from "./HeroArea.module.css";
 
 export const HeroArea = () => {

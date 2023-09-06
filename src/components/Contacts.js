@@ -1,3 +1,5 @@
+import React from 'react';
+
 import styles from "./Contacts.module.css";
 
 export const Contacts = () => {

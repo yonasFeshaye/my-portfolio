@@ -1,3 +1,5 @@
+import React from 'react';
+
 import styles from "./Services.module.css";
 
 import { services } from "../content/services";
